@@ -1,0 +1,20 @@
+{
+  "id": "2km_4_1",
+  "label": "2km 4 1",
+  "radiusMeters": 2000,
+  "grid": {
+    "x": 4,
+    "y": 1
+  },
+  "count": 3127,
+  "recordBytes": 12,
+  "byteLength": 37524,
+  "format": "mercator_xy_float32_rgba_uint8",
+  "bounds": {
+    "west": 0.0101847,
+    "south": 51.5214424,
+    "east": 0.0461049,
+    "north": 51.5437698
+  },
+  "bin": "points.bin"
+}

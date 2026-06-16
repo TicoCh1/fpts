@@ -1,0 +1,20 @@
+{
+  "id": "4km_0_0",
+  "label": "4km 0 0",
+  "radiusMeters": 4000,
+  "grid": {
+    "x": 0,
+    "y": 0
+  },
+  "count": 13112,
+  "recordBytes": 12,
+  "byteLength": 157344,
+  "format": "mercator_xy_float32_rgba_uint8",
+  "bounds": {
+    "west": -0.1515151,
+    "south": 51.4878807,
+    "east": -0.0796614,
+    "north": 51.5325966
+  },
+  "bin": "points.bin"
+}

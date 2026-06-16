@@ -1,0 +1,17 @@
+{
+  "id": "32km_all_london",
+  "count": 476577,
+  "recordBytes": 12,
+  "byteLength": 5718924,
+  "format": "mercator_xy_float32_rgba_uint8",
+  "bounds": {
+    "west": -0.5098993,
+    "south": 51.2867737,
+    "east": 0.3334538,
+    "north": 51.6914673
+  },
+  "bin": "points.bin",
+  "label": "32 km all London",
+  "radiusMeters": 32000,
+  "source": "reused_original_32km_pointcloud"
+}

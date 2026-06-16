@@ -1,11 +1,22 @@
 <!doctype html>
-<html>
+<html lang="zh-CN">
   <head>
-    <meta charset="utf-8">
-    <title>Coming Soon</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>WebPresentation Static Preview</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <h1>Coming soon</h1>
-    <p>This site is under construction.</p>
+    <main class="presentation-shell">
+      <section id="stage" class="stage" aria-label="32:9 static presentation"></section>
+      <nav class="preview-nav" aria-label="Presentation navigation">
+        <button id="prevBtn" type="button" aria-label="Previous slide">&#8249;</button>
+        <span id="counter"></span>
+        <button id="nextBtn" type="button" aria-label="Next slide">&#8250;</button>
+      </nav>
+    </main>
+    <script src="project-data.js"></script>
+    <script src="presentation.js"></script>
   </body>
 </html>

@@ -1,0 +1,117 @@
+{
+    "id":  "webmercator-grid-rgb48-grouped",
+    "label":  "WebMercator grid rgb48",
+    "format":  "mercator_xy_float32_rgba_uint8",
+    "layers":  [
+                   {
+                       "id":  "wm02km_grid",
+                       "label":  "2 km grid",
+                       "radiusMeters":  2000,
+                       "boundaryMeters":  3600.0,
+                       "patchCount":  276,
+                       "count":  474918,
+                       "recordBytes":  12,
+                       "byteLength":  5699016,
+                       "format":  "mercator_xy_float32_rgba_uint8",
+                       "bounds":  {
+                                      "west":  -0.5098993,
+                                      "south":  51.2867737,
+                                      "east":  0.297533,
+                                      "north":  51.6914673
+                                  },
+                       "colorMatrix":  "swap_rg",
+                       "bin":  "points.bin",
+                       "url":  "./data/webmercator_grid_rgb48_grouped/wm02km_grid/points.bin",
+                       "manifestUrl":  "./data/webmercator_grid_rgb48_grouped/wm02km_grid/points.json"
+                   },
+                   {
+                       "id":  "wm04km_grid",
+                       "label":  "4 km grid",
+                       "radiusMeters":  4000,
+                       "boundaryMeters":  7200.0,
+                       "patchCount":  77,
+                       "count":  475927,
+                       "recordBytes":  12,
+                       "byteLength":  5711124,
+                       "format":  "mercator_xy_float32_rgba_uint8",
+                       "bounds":  {
+                                      "west":  -0.5098993,
+                                      "south":  51.2867737,
+                                      "east":  0.3334538,
+                                      "north":  51.6914673
+                                  },
+                       "colorMatrix":  "swap_rg",
+                       "bin":  "points.bin",
+                       "url":  "./data/webmercator_grid_rgb48_grouped/wm04km_grid/points.bin",
+                       "manifestUrl":  "./data/webmercator_grid_rgb48_grouped/wm04km_grid/points.json"
+                   },
+                   {
+                       "id":  "wm08km_grid",
+                       "label":  "8 km grid",
+                       "radiusMeters":  8000,
+                       "boundaryMeters":  14400.0,
+                       "patchCount":  26,
+                       "count":  476515,
+                       "recordBytes":  12,
+                       "byteLength":  5718180,
+                       "format":  "mercator_xy_float32_rgba_uint8",
+                       "bounds":  {
+                                      "west":  -0.5098993,
+                                      "south":  51.2867737,
+                                      "east":  0.3334538,
+                                      "north":  51.6914673
+                                  },
+                       "colorMatrix":  "swap_rg",
+                       "bin":  "points.bin",
+                       "url":  "./data/webmercator_grid_rgb48_grouped/wm08km_grid/points.bin",
+                       "manifestUrl":  "./data/webmercator_grid_rgb48_grouped/wm08km_grid/points.json"
+                   },
+                   {
+                       "id":  "wm16km_grid",
+                       "label":  "16 km grid",
+                       "radiusMeters":  16000,
+                       "boundaryMeters":  28800.0,
+                       "patchCount":  9,
+                       "count":  476514,
+                       "recordBytes":  12,
+                       "byteLength":  5718168,
+                       "format":  "mercator_xy_float32_rgba_uint8",
+                       "bounds":  {
+                                      "west":  -0.5098993,
+                                      "south":  51.2867737,
+                                      "east":  0.3155397,
+                                      "north":  51.6914673
+                                  },
+                       "colorMatrix":  "swap_rg",
+                       "bin":  "points.bin",
+                       "url":  "./data/webmercator_grid_rgb48_grouped/wm16km_grid/points.bin",
+                       "manifestUrl":  "./data/webmercator_grid_rgb48_grouped/wm16km_grid/points.json"
+                   },
+                   {
+                       "id":  "wm32km_all_london",
+                       "count":  476577,
+                       "recordBytes":  12,
+                       "byteLength":  5718924,
+                       "format":  "mercator_xy_float32_rgba_uint8",
+                       "bounds":  {
+                                      "west":  -0.5098993,
+                                      "south":  51.2867737,
+                                      "east":  0.3334538,
+                                      "north":  51.6914673
+                                  },
+                       "bin":  "points.bin",
+                       "label":  "32 km all London",
+                       "radiusMeters":  32000,
+                       "boundaryMeters":  57600.0,
+                       "patchCount":  1,
+                       "colorMatrix":  "swap_rg",
+                       "source":  "reused_original_32km_pointcloud",
+                       "url":  "./data/webmercator_grid_rgb48_grouped/wm32km_all_london/points.bin",
+                       "manifestUrl":  "./data/webmercator_grid_rgb48_grouped/wm32km_all_london/points.json"
+                   }
+               ],
+    "totalLayerCount":  5,
+    "totalPatchCount":  389,
+    "totalCount":  2380451,
+    "totalByteLength":  28565412
+}

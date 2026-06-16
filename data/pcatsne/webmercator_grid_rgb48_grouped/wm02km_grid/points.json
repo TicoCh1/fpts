@@ -1,0 +1,19 @@
+{
+    "id":  "wm02km_grid",
+    "label":  "2 km grid",
+    "radiusMeters":  2000,
+    "boundaryMeters":  3600.0,
+    "patchCount":  276,
+    "count":  474918,
+    "recordBytes":  12,
+    "byteLength":  5699016,
+    "format":  "mercator_xy_float32_rgba_uint8",
+    "bounds":  {
+                   "west":  -0.5098993,
+                   "south":  51.2867737,
+                   "east":  0.297533,
+                   "north":  51.6914673
+               },
+    "colorMatrix":  "swap_rg",
+    "bin":  "points.bin"
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "term": "house",
+    "representative": "Fallingwater",
+    "sourcePage": "https://en.wikipedia.org/wiki/Fallingwater",
+    "imageUrl": "./assets/semantic-images/house.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Fallingwater3.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "home",
+    "representative": "Eames House",
+    "sourcePage": "https://en.wikipedia.org/wiki/Eames_House",
+    "imageUrl": "./assets/semantic-images/home.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eames_house_entry.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "family",
+    "representative": "Arnolfini Portrait",
+    "sourcePage": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+    "imageUrl": "./assets/semantic-images/family.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/The_Arnolfini_portrait_%281434%29.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "household",
+    "representative": "The Potato Eaters",
+    "sourcePage": "https://en.wikipedia.org/wiki/The_Potato_Eaters",
+    "imageUrl": "./assets/semantic-images/household.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "dwelling",
+    "representative": "Rietveld Schroder House",
+    "sourcePage": "https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House",
+    "imageUrl": "./assets/semantic-images/dwelling.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rietveld_Schr%C3%B6derhuis_HayKranen-20.JPG",
+    "imageSize": 512
+  },
+  {
+    "term": "villa",
+    "representative": "Villa Savoye",
+    "sourcePage": "https://en.wikipedia.org/wiki/Villa_Savoye",
+    "imageUrl": "./assets/semantic-images/villa.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3c/VillaSavoye.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "townhouse",
+    "representative": "Sambourne House",
+    "sourcePage": "https://en.wikipedia.org/wiki/Sambourne_House",
+    "imageUrl": "./assets/semantic-images/townhouse.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Linley_Sambourne_House.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "terrace",
+    "representative": "Royal Crescent",
+    "sourcePage": "https://en.wikipedia.org/wiki/Royal_Crescent",
+    "imageUrl": "./assets/semantic-images/terrace.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Royal.crescent.aerial.bath.arp.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "rowhouse",
+    "representative": "Painted Ladies",
+    "sourcePage": "https://en.wikipedia.org/wiki/Painted_ladies",
+    "imageUrl": "./assets/semantic-images/rowhouse.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "courtyard",
+    "representative": "Court of the Lions",
+    "sourcePage": "https://en.wikipedia.org/wiki/Court_of_the_Lions",
+    "imageUrl": "./assets/semantic-images/courtyard.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fountain_in_Patio_de_los_Leones%2C_Alhambra%2C_16.08.14.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "backyard",
+    "representative": "Community Garden in Ottawa",
+    "sourcePage": "https://en.wikipedia.org/wiki/Community_gardening",
+    "imageUrl": "./assets/semantic-images/backyard.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Community_garden_in_Ottawa.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "garden",
+    "representative": "The Artist's Garden at Giverny",
+    "sourcePage": "https://en.wikipedia.org/wiki/The_Artist%27s_Garden_at_Giverny",
+    "imageUrl": "./assets/semantic-images/garden.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Monet_-_Monets_Garten_in_Giverny.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "residence",
+    "representative": "Farnsworth House",
+    "sourcePage": "https://en.wikipedia.org/wiki/Farnsworth_House",
+    "imageUrl": "./assets/semantic-images/residence.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Farnsworth_House_by_Mies_Van_Der_Rohe_-_exterior-8.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "occupier",
+    "representative": "The Milkmaid",
+    "sourcePage": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)",
+    "imageUrl": "./assets/semantic-images/occupier.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "settlement",
+    "representative": "Catalhoyuk",
+    "sourcePage": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+    "imageUrl": "./assets/semantic-images/settlement.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/%C3%87atalh%C3%B6y%C3%BCk%2C_7400_BC%2C_Konya%2C_Turkey_-_UNESCO_World_Heritage_Site%2C_08.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "inhabitant",
+    "representative": "Arnolfini Portrait",
+    "sourcePage": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+    "imageUrl": "./assets/semantic-images/inhabitant.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/The_Arnolfini_portrait_%281434%29.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "neighborhood",
+    "representative": "Notting Hill",
+    "sourcePage": "https://en.wikipedia.org/wiki/Notting_Hill",
+    "imageUrl": "./assets/semantic-images/neighborhood.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/London_110.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "community",
+    "representative": "Byker Wall",
+    "sourcePage": "https://en.wikipedia.org/wiki/Byker_Wall",
+    "imageUrl": "./assets/semantic-images/community.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Tomcollinshouse_1.jpg",
+    "imageSize": 512
+  },
+  {
+    "term": "apartment",
+    "representative": "Unite d'habitation",
+    "sourcePage": "https://en.wikipedia.org/wiki/Unit%C3%A9_d%27habitation",
+    "imageUrl": "./assets/semantic-images/apartment.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ec/Unit%C3%A9_d%27habitation_Marseille%2C_France.jpg",
+    "imageSize": 512
+  }
+]

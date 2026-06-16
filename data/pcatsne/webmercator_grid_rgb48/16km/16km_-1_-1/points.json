@@ -1,0 +1,20 @@
+{
+  "id": "16km_-1_-1",
+  "label": "16km -1 -1",
+  "radiusMeters": 16000,
+  "grid": {
+    "x": -1,
+    "y": -1
+  },
+  "count": 9843,
+  "recordBytes": 12,
+  "byteLength": 118116,
+  "format": "mercator_xy_float32_rgba_uint8",
+  "bounds": {
+    "west": -0.3862028,
+    "south": 51.3267174,
+    "east": -0.2593409,
+    "north": 51.4206963
+  },
+  "bin": "points.bin"
+}
